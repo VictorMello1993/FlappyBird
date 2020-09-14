@@ -22,5 +22,7 @@ A aplicação é bem simples, pois roda 100% no navegador, sem back-end. Para ex
 3 - Pronto, a aplicação já está em execução! Divirta-se! =)
 ![Screenshot_3](https://user-images.githubusercontent.com/35710766/93034125-65bc4100-f60f-11ea-998b-f4949209cc91.png)
     
+<h2>Versões do README</h2>
+<a href="https://github.com/VictorMello1993/FlappyBird/edit/master/README-PTBR.md">PT-BR</a>
   
   

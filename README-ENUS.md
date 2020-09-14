@@ -11,7 +11,7 @@
 </ul>  
 
 <h2>:triangular_flag_on_post: Getting started</h2>
-This app is very simple, as it runs 100% in the browser, no back-end. To run it, just follow the following step by step:
+This app is very simple, as it runs 100% in the browser, no back-end. To run it, just follow the step by step:
 
 1- Make sure you have installed the <strong>Live Server</strong> extension on VS Code. If not, go to the VS Code package manager to search for it and install, as shown in the image below:
 ![Screenshot_1](https://user-images.githubusercontent.com/35710766/93033635-779ce480-f60d-11ea-8014-9c6f0d7bbcd4.png)

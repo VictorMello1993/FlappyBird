@@ -3,12 +3,16 @@
 
 ![Hnet-image](https://user-images.githubusercontent.com/35710766/93035639-eed57700-f613-11ea-9cd9-cb98dc2b5a41.gif)
 
+---
+
 <h2>:wrench: Recursos </h2>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
 </ul>
+
+---
 
 <h2>:triangular_flag_on_post: Começando</h2>
 A aplicação é bem simples, pois roda 100% no navegador, sem back-end. Para executá-la, basta seguir o seguinte passo a passo:
@@ -21,8 +25,10 @@ A aplicação é bem simples, pois roda 100% no navegador, sem back-end. Para ex
 
 3 - Pronto, a aplicação já está em execução! Divirta-se! =)
 ![Screenshot_3](https://user-images.githubusercontent.com/35710766/93034125-65bc4100-f60f-11ea-998b-f4949209cc91.png)
-    
+
+---
+
 <h2>Versões do README</h2>
-<a href="https://github.com/VictorMello1993/FlappyBird/edit/master/README-PTBR.md">PT-BR</a>
+<a href="./README-PTBR.md">Português</a>
   
   

@@ -1,3 +1,4 @@
+<a href="https://github.com/VictorMello1993/FlappyBird/edit/master/README-ENUS.md">English</a>
 <h2>:earth_americas: Overview</h2>
 <p>Flappy Bird project running for desktop, promoted by <a href="https://github.com/cod3rcursos">Cod3r Cursos</a>, Curso Web Moderno 2020</p>
 

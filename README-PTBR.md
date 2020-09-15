@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="#visaogeral">Visão geral</a> •
+  <a href="#recursos">Recursos</a> •
+  <a href="#comecando">Começando</a> •
+  <a href="#versoesreadme">Versões do README</a> •
+</p>
+
+
+
 <h2>:earth_americas: Visão geral</h2>
 <p>Projeto de construção do jogo Flappy Bird rodando na versão desktop, promovido pela <a href="https://github.com/cod3rcursos">Cod3r Cursos</a>, Curso Web Moderno 2020</p>
 

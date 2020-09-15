@@ -3,12 +3,16 @@
 
 ![Hnet-image](https://user-images.githubusercontent.com/35710766/93035639-eed57700-f613-11ea-9cd9-cb98dc2b5a41.gif)
 
+---
+
 <h2>:wrench: Features</h2>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
 </ul>  
+
+---
 
 <h2>:triangular_flag_on_post: Getting started</h2>
 The app is very simple, as it runs 100% in the browser, no back-end. To run it, just follow the step by step:
@@ -20,3 +24,9 @@ The app is very simple, as it runs 100% in the browser, no back-end. To run it, 
 
 3- That's it, the app is already running! Enjoy yourself! =)
 ![Screenshot_3](https://user-images.githubusercontent.com/35710766/93034125-65bc4100-f60f-11ea-998b-f4949209cc91.png)
+
+---
+
+<h2>README versions</h2>
+
+[Portuguese 🇧🇷](./README-PTBR.md)   |   [English 🇺🇸](./README-ENUS.md)

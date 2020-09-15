@@ -45,7 +45,7 @@ A aplicação é bem simples, pois roda 100% no navegador, sem back-end. Para ex
 1 - Certificar-se de que tenha instalado a extensão <strong>Live Server</strong> no VS Code. Em caso negativo, vá em gerenciador de pacotes do VS Code para pesquisar por ela e instalar, conforme a imagem abaixo:
 ![Screenshot_1](https://user-images.githubusercontent.com/35710766/93033635-779ce480-f60d-11ea-8014-9c6f0d7bbcd4.png)
 
-2 - Em ```flappy.html``` Pressionar F1 para executar o comando <strong>Live Server: Open with Live Server</strong> que será aberta uma janela do navegador automaticamente. O interessante desta extensão é que uma vez que você aplica o comando, após qualquer alteração no código, não é necessário aplicá-lo de novo. Basta salvar o arquivo com CTRL+S que o navegador automaticamente já renderiza.
+2 - Em ```flappy.html``` Pressionar F1 para executar o comando <strong>Live Server: Open with Live Server</strong> que será aberta uma janela do navegador automaticamente. O interessante desta extensão é que uma vez que você aplica o comando, após qualquer alteração no código, não é necessário aplicá-lo de novo. Basta salvar o arquivo com CTRL+S que o navegador já renderiza e é atualizado automaticamente, sem precisar ficar pressionando F5 várias vezes.
 ![Screenshot_2](https://user-images.githubusercontent.com/35710766/93034061-30175800-f60f-11ea-8ef3-f920356778be.png)
 
 3 - Pronto, a aplicação já está em execução! Divirta-se! =)

@@ -3,7 +3,7 @@
 ![Screenshot_3](https://user-images.githubusercontent.com/35710766/93151020-15a5b300-f6d1-11ea-9e20-3a08da5244e1.png)
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/VictorMello1993/FlappyBird?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/VictorMello1993/FlappyBird?color=FF0000">
   
   <a href="https://github.com/VictorMello1993/FlappyBird/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/VictorMello1993/FlappyBird">

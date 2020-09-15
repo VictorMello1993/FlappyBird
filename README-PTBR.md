@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#visaogeral">Visão geral</a> •
+  <a href="#earth_americas-visão-geral">Visão geral</a> •
   <a href="#recursos">Recursos</a> •
   <a href="#comecando">Começando</a> •
   <a href="#versoesreadme">Versões do README</a> •

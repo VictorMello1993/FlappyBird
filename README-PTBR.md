@@ -1,3 +1,8 @@
+<h1 align="center">Flappy-bird</h1>
+
+![Screenshot_3](https://user-images.githubusercontent.com/35710766/93151020-15a5b300-f6d1-11ea-9e20-3a08da5244e1.png)
+
+
 <p align="center">
   <a href="#earth_americas-visão-geral">Visão geral</a> •
   <a href="#wrench-recursos-">Recursos</a> •
@@ -33,7 +38,6 @@ A aplicação é bem simples, pois roda 100% no navegador, sem back-end. Para ex
 ![Screenshot_2](https://user-images.githubusercontent.com/35710766/93034061-30175800-f60f-11ea-8ef3-f920356778be.png)
 
 3 - Pronto, a aplicação já está em execução! Divirta-se! =)
-![Screenshot_3](https://user-images.githubusercontent.com/35710766/93034125-65bc4100-f60f-11ea-998b-f4949209cc91.png)
 
 ---
 

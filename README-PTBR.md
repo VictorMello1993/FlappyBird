@@ -4,6 +4,10 @@
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/VictorMello1993/FlappyBird?color=%2304D361">
+  
+  <a href="https://github.com/VictorMello1993/FlappyBird/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/VictorMello1993/FlappyBird">
+  </a> 
 </p>
 
 

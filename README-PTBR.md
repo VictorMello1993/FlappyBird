@@ -6,7 +6,7 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/VictorMello1993/FlappyBird?color=FF0000">
   
   <a href="https://github.com/VictorMello1993/FlappyBird/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/VictorMello1993/FlappyBird">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/VictorMello1993/FlappyBird?color=D3D3D3">
   </a> 
   
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">

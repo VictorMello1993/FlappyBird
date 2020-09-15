@@ -8,6 +8,9 @@
   <a href="https://github.com/VictorMello1993/FlappyBird/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/VictorMello1993/FlappyBird">
   </a> 
+  
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+   <a href="https://github.com/VictorMello1993/FlappyBird/stargazers"></a>
 </p>
 
 

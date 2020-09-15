@@ -30,4 +30,4 @@ A aplicação é bem simples, pois roda 100% no navegador, sem back-end. Para ex
 
 <h2>Versões do README</h2>
 
-[Português 🇧🇷](./README-PTBR.md)  |  [Inglês 🇺🇸](./README-ENUS.md)
+[Português](./README-PTBR.md)  |  [Inglês](./README-ENUS.md)

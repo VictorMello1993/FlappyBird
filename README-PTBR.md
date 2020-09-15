@@ -2,7 +2,7 @@
   <a href="#earth_americas-visão-geral">Visão geral</a> •
   <a href="#wrench-recursos-">Recursos</a> •
   <a href="#triangular_flag_on_post-começando">Começando</a> •
-  <a href="#versoesreadme">Versões do README</a> •
+  <a href="#versões-do-readme">Versões do README</a> •
 </p>
 
 

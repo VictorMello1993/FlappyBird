@@ -15,10 +15,10 @@
 
 
 <p align="center">
-  <a href="#earth_americas-visão-geral">Visão geral</a> •
-  <a href="#wrench-recursos-">Recursos</a> •
-  <a href="#triangular_flag_on_post-começando">Começando</a> •
-  <a href="#versões-do-readme">Versões do README</a> •
+  <a href="#earth_americas-overview">Overview</a> •
+  <a href="#wrench-features">Features</a> •
+  <a href="#triangular_flag_on_post-getting-started">Getting started</a> •
+  <a href="#readme-versions">README versions</a> •
 </p>
 
 <h2>:earth_americas: Overview</h2>

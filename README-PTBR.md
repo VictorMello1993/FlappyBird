@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#earth_americas-visão-geral">Visão geral</a> •
-  <a href="#recursos">Recursos</a> •
+  <a href="#wrench-recursos-">Recursos</a> •
   <a href="#comecando">Começando</a> •
   <a href="#versoesreadme">Versões do README</a> •
 </p>

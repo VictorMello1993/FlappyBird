@@ -29,4 +29,4 @@ The app is very simple, as it runs 100% in the browser, no back-end. To run it, 
 
 <h2>README versions</h2>
 
-[Portuguese 🇧🇷](./README-PTBR.md)   |   [English 🇺🇸](./README-ENUS.md)
+[Portuguese](./README-PTBR.md)   |   [English](./README-ENUS.md)
